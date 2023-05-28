@@ -2,6 +2,7 @@
 Read from file txt and output message 
 
 Input sample 
+
 MDR;MP;1720;Bank Mandiri Online;Offline
 
 MDR;MP;8066;Bank Mandiri Online;Offline
